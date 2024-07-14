@@ -2,6 +2,5 @@ na na na na
 Hey Jude!
 na na na na
 Hey Jude!
-Agregando lineas desde la web
-agregando lienas desde el repositorio local para poder visualizarlo en la web
-Perrreo Intenso
+Hey Jude, dont make it bad
+take a sad song and make it better
